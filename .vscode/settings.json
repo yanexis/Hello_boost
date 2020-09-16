@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/yptoledo/TensorFlow/venv/bin/python3",
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}

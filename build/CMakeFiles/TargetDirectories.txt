@@ -1,0 +1,3 @@
+/mnt/k/yanexis Documentos/Area de Trabalho/boost/build/CMakeFiles/rebuild_cache.dir
+/mnt/k/yanexis Documentos/Area de Trabalho/boost/build/CMakeFiles/edit_cache.dir
+/mnt/k/yanexis Documentos/Area de Trabalho/boost/build/CMakeFiles/hello.dir

@@ -1,0 +1,7 @@
+/mnt/k/yanexis Documentos/Area de Trabalho/BOOST/CMakeFiles/install/strip.dir
+/mnt/k/yanexis Documentos/Area de Trabalho/BOOST/CMakeFiles/install/local.dir
+/mnt/k/yanexis Documentos/Area de Trabalho/BOOST/CMakeFiles/install.dir
+/mnt/k/yanexis Documentos/Area de Trabalho/BOOST/CMakeFiles/list_install_components.dir
+/mnt/k/yanexis Documentos/Area de Trabalho/BOOST/CMakeFiles/rebuild_cache.dir
+/mnt/k/yanexis Documentos/Area de Trabalho/BOOST/CMakeFiles/edit_cache.dir
+/mnt/k/yanexis Documentos/Area de Trabalho/BOOST/CMakeFiles/ransac.dir
